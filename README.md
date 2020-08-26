@@ -1,2 +1,3 @@
 # FrostBite
-text
+So cold
+Coldest game on the internet
